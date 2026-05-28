@@ -1,0 +1,6 @@
+@DigitalWallet.Api_HostAddress = http://localhost:5088
+
+GET {{DigitalWallet.Api_HostAddress}}/wallets/
+Accept: application/json
+
+###
